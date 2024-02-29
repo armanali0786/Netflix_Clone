@@ -20,12 +20,16 @@ The Netflix Clone project aims to replicate the core functionality and user expe
     User Profiles:
 
 
-##Technologies Used:
+## Technologies Used:
 
     Frontend: React.js, Redux (optional for state management), HTML5, CSS3, JavaScript
+    
     Backend: Node.js, Express.js
+    
     Database: MongoDB (or any other NoSQL database for flexibility)
+    
     Authentication: JWT (JSON Web Tokens) for authentication and session management
+    
     Other Tools: Git for version control, npm or yarn for package management, Axios or Fetch for making API requests.
     
 ## Screenshots
