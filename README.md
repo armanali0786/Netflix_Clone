@@ -1,23 +1,33 @@
 
-# Podstream
+# NETFLIX CLONE
 
-A podcast-related website clone project mirrors popular platforms like Spotify or Apple Podcasts, offering a comprehensive platform for discovering, streaming, and sharing podcasts
+The Netflix Clone project aims to replicate the core functionality and user experience of the popular streaming platform Netflix. Utilizing the MERN stack (MongoDB, Express.js, React.js, Node.js), this project will involve building a full-fledged web application that allows users to browse, search, and watch a catalog of movies and TV shows.
 
 ## Features
 
-    User Registration:
+    User Authentication: 
 
-    Podcast Directory:
+    Browse Catalog: 
 
-    Episode Streaming: 
-
-    Playlist Creation:
-    
     Search Functionality:
+
+    User Profiles:
     
-    Social Sharing:
+    Responsive Design:
+    
+    Admin Panel: 
     
     User Profiles:
+
+
+##Technologies Used:
+
+    Frontend: React.js, Redux (optional for state management), HTML5, CSS3, JavaScript
+    Backend: Node.js, Express.js
+    Database: MongoDB (or any other NoSQL database for flexibility)
+    Authentication: JWT (JSON Web Tokens) for authentication and session management
+    Other Tools: Git for version control, npm or yarn for package management, Axios or Fetch for making API requests.
+    
 ## Screenshots
 
 ![Screenshot from 2023-09-29 19-11-03](https://github.com/armanali0786/Netflix_Clone/assets/76746226/a05be9fc-a355-4dfe-813b-21877f4dead3)
